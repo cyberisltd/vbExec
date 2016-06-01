@@ -1,0 +1,2 @@
+Simple VBScript which can run any remote command on a target host. When used with WMI it is possible to extract the SAM.
+See http://blog.cyberis.co.uk/2011/09/remote-windows-sam-retrieval-with.html for more information.
